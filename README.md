@@ -19,4 +19,5 @@ Phase 4: Threat Assessment
 A 10 page document showing the work I did on threat assessment.
 
 Phase 5: Reporting
+
 Two mock reports; An Executive Summary for a client’s senior management, and a Detailed Technical Report for the client’s IT staff based on the scenario this capstone project was based on.
